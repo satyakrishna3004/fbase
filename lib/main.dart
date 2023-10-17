@@ -26,7 +26,7 @@ class _firstscreenState extends State<firstscreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('FireBase'),),
+      appBar: AppBar(title: Text('Fire'),),
 
     );
   }
