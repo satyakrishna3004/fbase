@@ -27,7 +27,7 @@ class _firstscreenState extends State<firstscreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text('Fire'),),
-      body: Text('Base'),
+      body: Center(child: Text('Base')),
 
     );
   }
